@@ -1,0 +1,6 @@
+{
+    "DEAUTH_THRESHOLD": 10,
+    "BRUTEFORCE_THRESHOLD": 5,
+    "LOG_FILE": "preventx_log.db",
+    "AUTO_BLOCK": true
+}
